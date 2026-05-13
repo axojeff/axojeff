@@ -2,7 +2,7 @@
 
 ### My names Ellie! Im a person who LOVES modding games!
 
-## I also put random shit on Decal's Gitea instance, here's the linK: https://git.decalfree.com/Elliemese
+## I also put random shit on Decal's Gitea instance, here's the link: https://git.decalfree.com/Elliemese
 
 I want to start coding but I need an actual teacher 😭 
 
