@@ -1,9 +1,9 @@
-# haiiiiii :3
+# Haiiiiii i'm elliemese, but you can call me ellie! :3
 
-### My names Ellie! Im a person who LOVES modding games!
+## I know html and css... that's about it :D
 
-## I also put random shit on Decal's Gitea instance, here's the link: https://git.decalfree.com/Elliemese
+### I put most of my stuff on [Decal's Gitea instance](https://git.decalfree.com/Elliemese/) now
 
-I know html and css kinda
+If you need to contact me, please add me on discord. Add: "elliemese"
 
-Want to contact me? Message me on discord. My username is "moddedaxo"
+### Thats about it! have an amazing day!
