@@ -4,6 +4,6 @@
 
 ## I also put random shit on Decal's Gitea instance, here's the link: https://git.decalfree.com/Elliemese
 
-I want to start coding but I need an actual teacher 😭 
+I know html and css kinda
 
 Want to contact me? Message me on discord. My username is "moddedaxo"
