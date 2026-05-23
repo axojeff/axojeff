@@ -2,8 +2,4 @@
 
 ## I know html and css... that's about it :D
 
-### I put most of my stuff on [My Gitea Instance](https://git.elliemese.win/Elliemese/) now
-
-If you need to contact me, please add me on discord. Add: "elliemese"
-
-### Thats about it! have an amazing day!
+### I have privated almost everything on my github account. You can find my projects in [My Gitea Instance](https://git.elliemese.win/Elliemese/) now!
