@@ -2,7 +2,7 @@
 
 ## I know html and css... that's about it :D
 
-### I put most of my stuff on [Decal's Gitea instance](https://git.decalfree.com/Elliemese/) now
+### I put most of my stuff on [My Gitea Instance](https://git.elliemese.win/Elliemese/) now
 
 If you need to contact me, please add me on discord. Add: "elliemese"
 
